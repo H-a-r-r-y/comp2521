@@ -1,0 +1,25 @@
+Input	Initial	Has	Number	AvgTime	AvgTime
+Size	Order	Dups	of runs	forusel	forsort
+5000	random	no	3	0m0.064s	0m0.006s
+5000	sorted	no	3	0m0.004s	0m0.004s
+5000	reverse	no	3	0m0.004s	0m0.004s
+5000	random	yes	3	0m0.062s	0m0.006s
+5000	sorted	yes	3	0m0.004s	0m0.004s
+5000	reverse	yes	3	0m0.004s	0m0.004s
+10000	random	no	3	0m0.188s	0m0.012s
+10000	sorted	no	3	0m0.008s	0m0.008s
+10000	reverse	no	3	0m0.008s	0m0.008s
+10000	random	yes	3	0m0.148s	0m0.012s
+10000	sorted	yes	3	0m0.008s	0m0.006s
+10000	reverse	yes	3	0m0.008s	0m0.008s
+
+
+
+From the table above, there maybe is a proportional relationship 
+between the size of input and the AvgTime of runs, which can be 
+indentified from some typical data above. For example, the AvgTime 
+of runs with input size 5000, sorted/reversed order and no Duplicates 
+is exactly half of the AvgTime of runs with input size 10000 ,
+sorted/reversed order and no duplicate. The same ratio can be noticed 
+from the Avgtime of the runs with random order, but is aprroximate. 
+Thus, I think that the Avgtime is proportional to the input size. :0

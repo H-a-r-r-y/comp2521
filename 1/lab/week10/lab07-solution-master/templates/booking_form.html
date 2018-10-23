@@ -1,0 +1,51 @@
+{% extends 'base.html' %}
+{% block body %}
+<img src="https://easydrawingguides-7512.kxcdn.com/wp-content/uploads/2017/01/How-to-Draw-a-cartoon-car-20.png"/>
+<br/>
+<div>
+  <h2>{{car}}</h2>
+</div>
+<div>
+  <form method="POST">
+    <div>
+      <input {% if confirmation %}readonly value="{{form['start_location']}}"{% endif %} name="start_location">Start Location</input>
+      <br/>
+	  {% if 'start_location' in errors %}
+	  <font color='red' size='1.5'>*{{ errors['start_location']}} </font>
+	  <br>
+	  {% endif %}
+      <input {% if confirmation %}readonly value="{{form['end_location']}}"{% endif %} name="end_location">End Location</input>
+	  {% if 'end_location' in errors %}
+	  <br>
+	  <font color='red' size='1.5'>*{{ errors['end_location']}} </font>
+	  {% endif %}
+    </div>
+    <div>
+      <input {% if confirmation %}readonly value="{{form['start_date']}}"{% endif %} type="date" name="start_date">Start Date</input>
+      <br/>
+	  {% if 'start_date' in errors %}
+	  <font color='red' size='1.5'>*{{ errors['start_date']}} </font>
+	  <br>
+	  {% endif %}
+      <input {% if confirmation %}readonly value="{{form['end_date']}}"{% endif %} type="date" name="end_date">End Date</input>
+	  {% if 'end_date' in errors %}
+	  <br>
+	  <font color='red' size='1.5'>*{{ errors['end_date']}} </font>
+	  {% endif %}
+	  {% if 'period' in errors %}
+	  <br>
+	  <font color='red' size='4'>*{{ errors['period']}} </font>
+	  {% endif %}
+	  </div>
+    {% if confirmation %}
+      <div>
+        Total fee: ${{fee}}
+      </div>
+      <button name="confirm" type="submit">Confirm</button>
+      <button name="cancel" type="submit">Cancel</button>
+    {% else %}
+      <button name="check" type="submit">Check Booking</button>
+    {% endif %}
+  </form>
+</div>
+{% endblock %}

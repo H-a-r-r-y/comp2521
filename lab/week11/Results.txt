@@ -1,0 +1,25 @@
+Results for Tests on 5000 values
+
+Depth = depth of tree, Cost = average #comparisons per search
+
+
+             Ascending Order          Prefix Order          Random Order
+Insert
+Method       Depth         Cost      Depth      Cost       Depth      Cost
+
+L         ___5000_____  __3114___  __13____  __11____  _____28___       15
+
+A         __ 5000______  _1886_____  _2954__  __1115____  ____28__  ____16__
+
+R         ___2492_____  ___951____  __1774__  __674_  ______27__  ______15_
+
+B         _  204______  ___61___  ___20___  ____13__  _______23_  ______13_
+
+S         ___N/A___  _____N/A___  ___3977____  __37____  _____N/A__  ___N/A__
+
+V         ____13____  ____11__  ____14____  ____12_  _______15_  _______11_
+
+
+Notes (what the above indicates):
+1.AVL tree always is most efficient tree structure for searching .(cost is min compared to others)
+2. Splay tree is most time-wasting;(even not displayed in A order and R order)

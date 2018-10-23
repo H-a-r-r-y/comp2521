@@ -1,0 +1,7 @@
+{
+  "testBackEnd.py::testPremium": true,
+  "testBackEnd.py::test_large_car_long_period": true,
+  "testBackEnd.py::test_large_cars": true,
+  "testBackEnd.py::test_premium_cars": true,
+  "testBackEnd.py::test_primary_things": true
+}

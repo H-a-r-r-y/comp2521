@@ -1,0 +1,51 @@
+#!/bin/sh
+
+size=200
+
+for insert in L A B R S V
+do
+	for order in A
+	do
+		echo ""
+		echo "Test: ./tlab $size $order $insert"
+		echo "t" | ./tlab $size $order $insert | grep -v Tree
+	done
+done
+
+size=5000
+
+for insert in L A B R S V
+do
+	for order in A D P R
+	do
+		echo ""
+		echo "Test: ./tlab $size $order $insert"
+		echo "t" | ./tlab $size $order $insert | grep -v Tree
+	done
+done
+
+size=5000
+seed=2
+
+for insert in L A B R S V
+do
+	for order in A D P R
+	do
+		echo ""
+		echo "Test: ./tlab $size $order $insert"
+		echo "t" | ./tlab $size $order $insert | grep -v Tree
+	done
+done
+
+size=8000
+seed=5
+
+for insert in L A B R S V
+do
+	for order in A D P R
+	do
+		echo ""
+		echo "Test: ./tlab $size $order $insert"
+		echo "t" | ./tlab $size $order $insert | grep -v Tree
+	done
+done

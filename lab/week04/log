@@ -1,0 +1,330 @@
+=== Testing for random input, size 100 ===
+time: cannot run ./sort: No such file or directory
+Command exited with non-zero status 127
+0.00user 0.00system 0:00.00elapsed 0%CPU (0avgtext+0avgdata 1272maxresident)k
+0inputs+8outputs (0major+34minor)pagefaults 0swaps
+time: cannot run ./sort: No such file or directory
+Command exited with non-zero status 127
+0.00user 0.00system 0:00.00elapsed ?%CPU (0avgtext+0avgdata 1244maxresident)k
+0inputs+8outputs (0major+32minor)pagefaults 0swaps
+time: cannot run ./sort: No such file or directory
+Command exited with non-zero status 127
+0.00user 0.00system 0:00.00elapsed ?%CPU (0avgtext+0avgdata 1336maxresident)k
+0inputs+8outputs (0major+34minor)pagefaults 0swaps
+time: cannot run ./sort: No such file or directory
+Command exited with non-zero status 127
+0.00user 0.00system 0:00.00elapsed ?%CPU (0avgtext+0avgdata 1388maxresident)k
+0inputs+8outputs (0major+36minor)pagefaults 0swaps
+time: cannot run ./sort: No such file or directory
+Command exited with non-zero status 127
+0.00user 0.00system 0:00.00elapsed ?%CPU (0avgtext+0avgdata 1296maxresident)k
+0inputs+8outputs (0major+33minor)pagefaults 0swaps
+
+=== Testing for sorted input, size 100 ===
+time: cannot run ./sort: No such file or directory
+Command exited with non-zero status 127
+0.00user 0.00system 0:00.00elapsed ?%CPU (0avgtext+0avgdata 1244maxresident)k
+0inputs+8outputs (0major+32minor)pagefaults 0swaps
+time: cannot run ./sort: No such file or directory
+Command exited with non-zero status 127
+0.00user 0.00system 0:00.00elapsed ?%CPU (0avgtext+0avgdata 1364maxresident)k
+0inputs+8outputs (0major+34minor)pagefaults 0swaps
+time: cannot run ./sort: No such file or directory
+Command exited with non-zero status 127
+0.00user 0.00system 0:00.00elapsed ?%CPU (0avgtext+0avgdata 1268maxresident)k
+0inputs+8outputs (0major+34minor)pagefaults 0swaps
+time: cannot run ./sort: No such file or directory
+Command exited with non-zero status 127
+0.00user 0.00system 0:00.00elapsed ?%CPU (0avgtext+0avgdata 1244maxresident)k
+0inputs+8outputs (0major+32minor)pagefaults 0swaps
+time: cannot run ./sort: No such file or directory
+Command exited with non-zero status 127
+0.00user 0.00system 0:00.00elapsed ?%CPU (0avgtext+0avgdata 1244maxresident)k
+0inputs+8outputs (0major+32minor)pagefaults 0swaps
+
+=== Testing for reverse input, size 100 ===
+time: cannot run ./sort: No such file or directory
+Command exited with non-zero status 127
+0.00user 0.00system 0:00.00elapsed ?%CPU (0avgtext+0avgdata 1304maxresident)k
+0inputs+8outputs (0major+34minor)pagefaults 0swaps
+time: cannot run ./sort: No such file or directory
+Command exited with non-zero status 127
+0.00user 0.00system 0:00.00elapsed ?%CPU (0avgtext+0avgdata 1400maxresident)k
+0inputs+8outputs (0major+36minor)pagefaults 0swaps
+time: cannot run ./sort: No such file or directory
+Command exited with non-zero status 127
+0.00user 0.00system 0:00.00elapsed ?%CPU (0avgtext+0avgdata 1364maxresident)k
+0inputs+8outputs (0major+34minor)pagefaults 0swaps
+time: cannot run ./sort: No such file or directory
+Command exited with non-zero status 127
+0.00user 0.00system 0:00.00elapsed ?%CPU (0avgtext+0avgdata 1300maxresident)k
+0inputs+8outputs (0major+33minor)pagefaults 0swaps
+time: cannot run ./sort: No such file or directory
+Command exited with non-zero status 127
+0.00user 0.00system 0:00.00elapsed ?%CPU (0avgtext+0avgdata 1384maxresident)k
+0inputs+8outputs (0major+35minor)pagefaults 0swaps
+
+=== Testing for random input, size 1000 ===
+time: cannot run ./sort: No such file or directory
+Command exited with non-zero status 127
+0.00user 0.00system 0:00.00elapsed ?%CPU (0avgtext+0avgdata 1268maxresident)k
+0inputs+8outputs (0major+34minor)pagefaults 0swaps
+time: cannot run ./sort: No such file or directory
+Command exited with non-zero status 127
+0.00user 0.00system 0:00.00elapsed ?%CPU (0avgtext+0avgdata 1272maxresident)k
+0inputs+8outputs (0major+34minor)pagefaults 0swaps
+time: cannot run ./sort: No such file or directory
+Command exited with non-zero status 127
+0.00user 0.00system 0:00.00elapsed ?%CPU (0avgtext+0avgdata 1240maxresident)k
+0inputs+8outputs (0major+32minor)pagefaults 0swaps
+time: cannot run ./sort: No such file or directory
+Command exited with non-zero status 127
+0.00user 0.00system 0:00.00elapsed ?%CPU (0avgtext+0avgdata 1272maxresident)k
+0inputs+8outputs (0major+34minor)pagefaults 0swaps
+time: cannot run ./sort: No such file or directory
+Command exited with non-zero status 127
+0.00user 0.00system 0:00.00elapsed ?%CPU (0avgtext+0avgdata 1364maxresident)k
+0inputs+8outputs (0major+34minor)pagefaults 0swaps
+
+=== Testing for sorted input, size 1000 ===
+time: cannot run ./sort: No such file or directory
+Command exited with non-zero status 127
+0.00user 0.00system 0:00.00elapsed ?%CPU (0avgtext+0avgdata 1240maxresident)k
+0inputs+8outputs (0major+31minor)pagefaults 0swaps
+time: cannot run ./sort: No such file or directory
+Command exited with non-zero status 127
+0.00user 0.00system 0:00.00elapsed ?%CPU (0avgtext+0avgdata 1212maxresident)k
+0inputs+8outputs (0major+32minor)pagefaults 0swaps
+time: cannot run ./sort: No such file or directory
+Command exited with non-zero status 127
+0.00user 0.00system 0:00.00elapsed ?%CPU (0avgtext+0avgdata 1332maxresident)k
+0inputs+8outputs (0major+33minor)pagefaults 0swaps
+time: cannot run ./sort: No such file or directory
+Command exited with non-zero status 127
+0.00user 0.00system 0:00.00elapsed ?%CPU (0avgtext+0avgdata 1292maxresident)k
+0inputs+8outputs (0major+32minor)pagefaults 0swaps
+time: cannot run ./sort: No such file or directory
+Command exited with non-zero status 127
+0.00user 0.00system 0:00.00elapsed ?%CPU (0avgtext+0avgdata 1304maxresident)k
+0inputs+8outputs (0major+34minor)pagefaults 0swaps
+
+=== Testing for reverse input, size 1000 ===
+time: cannot run ./sort: No such file or directory
+Command exited with non-zero status 127
+0.00user 0.00system 0:00.00elapsed ?%CPU (0avgtext+0avgdata 1212maxresident)k
+0inputs+8outputs (0major+32minor)pagefaults 0swaps
+time: cannot run ./sort: No such file or directory
+Command exited with non-zero status 127
+0.00user 0.00system 0:00.00elapsed ?%CPU (0avgtext+0avgdata 1392maxresident)k
+0inputs+8outputs (0major+36minor)pagefaults 0swaps
+time: cannot run ./sort: No such file or directory
+Command exited with non-zero status 127
+0.00user 0.00system 0:00.00elapsed ?%CPU (0avgtext+0avgdata 1364maxresident)k
+0inputs+8outputs (0major+34minor)pagefaults 0swaps
+time: cannot run ./sort: No such file or directory
+Command exited with non-zero status 127
+0.00user 0.00system 0:00.00elapsed ?%CPU (0avgtext+0avgdata 1212maxresident)k
+0inputs+8outputs (0major+33minor)pagefaults 0swaps
+time: cannot run ./sort: No such file or directory
+Command exited with non-zero status 127
+0.00user 0.00system 0:00.00elapsed ?%CPU (0avgtext+0avgdata 1376maxresident)k
+0inputs+8outputs (0major+35minor)pagefaults 0swaps
+
+=== Testing for random input, size 10000 ===
+time: cannot run ./sort: No such file or directory
+Command exited with non-zero status 127
+0.00user 0.00system 0:00.00elapsed ?%CPU (0avgtext+0avgdata 1332maxresident)k
+0inputs+8outputs (0major+33minor)pagefaults 0swaps
+time: cannot run ./sort: No such file or directory
+Command exited with non-zero status 127
+0.00user 0.00system 0:00.00elapsed ?%CPU (0avgtext+0avgdata 1212maxresident)k
+0inputs+8outputs (0major+32minor)pagefaults 0swaps
+time: cannot run ./sort: No such file or directory
+Command exited with non-zero status 127
+0.00user 0.00system 0:00.00elapsed ?%CPU (0avgtext+0avgdata 1384maxresident)k
+0inputs+8outputs (0major+35minor)pagefaults 0swaps
+time: cannot run ./sort: No such file or directory
+Command exited with non-zero status 127
+0.00user 0.00system 0:00.00elapsed ?%CPU (0avgtext+0avgdata 1268maxresident)k
+0inputs+8outputs (0major+34minor)pagefaults 0swaps
+time: cannot run ./sort: No such file or directory
+Command exited with non-zero status 127
+0.00user 0.00system 0:00.00elapsed ?%CPU (0avgtext+0avgdata 1216maxresident)k
+0inputs+8outputs (0major+33minor)pagefaults 0swaps
+
+=== Testing for sorted input, size 10000 ===
+time: cannot run ./sort: No such file or directory
+Command exited with non-zero status 127
+0.00user 0.00system 0:00.00elapsed ?%CPU (0avgtext+0avgdata 1292maxresident)k
+0inputs+8outputs (0major+33minor)pagefaults 0swaps
+time: cannot run ./sort: No such file or directory
+Command exited with non-zero status 127
+0.00user 0.00system 0:00.00elapsed ?%CPU (0avgtext+0avgdata 1304maxresident)k
+0inputs+8outputs (0major+34minor)pagefaults 0swaps
+time: cannot run ./sort: No such file or directory
+Command exited with non-zero status 127
+0.00user 0.00system 0:00.00elapsed ?%CPU (0avgtext+0avgdata 1212maxresident)k
+0inputs+8outputs (0major+33minor)pagefaults 0swaps
+time: cannot run ./sort: No such file or directory
+Command exited with non-zero status 127
+0.00user 0.00system 0:00.00elapsed ?%CPU (0avgtext+0avgdata 1392maxresident)k
+0inputs+8outputs (0major+36minor)pagefaults 0swaps
+time: cannot run ./sort: No such file or directory
+Command exited with non-zero status 127
+0.00user 0.00system 0:00.00elapsed ?%CPU (0avgtext+0avgdata 1392maxresident)k
+0inputs+8outputs (0major+34minor)pagefaults 0swaps
+
+=== Testing for reverse input, size 10000 ===
+time: cannot run ./sort: No such file or directory
+Command exited with non-zero status 127
+0.00user 0.00system 0:00.00elapsed ?%CPU (0avgtext+0avgdata 1240maxresident)k
+0inputs+8outputs (0major+32minor)pagefaults 0swaps
+time: cannot run ./sort: No such file or directory
+Command exited with non-zero status 127
+0.00user 0.00system 0:00.00elapsed ?%CPU (0avgtext+0avgdata 1268maxresident)k
+0inputs+8outputs (0major+34minor)pagefaults 0swaps
+time: cannot run ./sort: No such file or directory
+Command exited with non-zero status 127
+0.00user 0.00system 0:00.00elapsed ?%CPU (0avgtext+0avgdata 1392maxresident)k
+0inputs+8outputs (0major+35minor)pagefaults 0swaps
+time: cannot run ./sort: No such file or directory
+Command exited with non-zero status 127
+0.00user 0.00system 0:00.00elapsed ?%CPU (0avgtext+0avgdata 1388maxresident)k
+0inputs+8outputs (0major+35minor)pagefaults 0swaps
+time: cannot run ./sort: No such file or directory
+Command exited with non-zero status 127
+0.00user 0.00system 0:00.00elapsed ?%CPU (0avgtext+0avgdata 1364maxresident)k
+0inputs+8outputs (0major+34minor)pagefaults 0swaps
+
+=== Testing for random input, size 100000 ===
+time: cannot run ./sort: No such file or directory
+Command exited with non-zero status 127
+0.00user 0.00system 0:00.00elapsed ?%CPU (0avgtext+0avgdata 1400maxresident)k
+0inputs+8outputs (0major+36minor)pagefaults 0swaps
+time: cannot run ./sort: No such file or directory
+Command exited with non-zero status 127
+0.00user 0.00system 0:00.00elapsed ?%CPU (0avgtext+0avgdata 1392maxresident)k
+0inputs+8outputs (0major+36minor)pagefaults 0swaps
+time: cannot run ./sort: No such file or directory
+Command exited with non-zero status 127
+0.00user 0.00system 0:00.00elapsed ?%CPU (0avgtext+0avgdata 1304maxresident)k
+0inputs+8outputs (0major+34minor)pagefaults 0swaps
+time: cannot run ./sort: No such file or directory
+Command exited with non-zero status 127
+0.00user 0.00system 0:00.00elapsed ?%CPU (0avgtext+0avgdata 1388maxresident)k
+0inputs+8outputs (0major+34minor)pagefaults 0swaps
+time: cannot run ./sort: No such file or directory
+Command exited with non-zero status 127
+0.00user 0.00system 0:00.00elapsed ?%CPU (0avgtext+0avgdata 1400maxresident)k
+0inputs+8outputs (0major+36minor)pagefaults 0swaps
+
+=== Testing for sorted input, size 100000 ===
+time: cannot run ./sort: No such file or directory
+Command exited with non-zero status 127
+0.00user 0.00system 0:00.00elapsed ?%CPU (0avgtext+0avgdata 1272maxresident)k
+0inputs+8outputs (0major+33minor)pagefaults 0swaps
+time: cannot run ./sort: No such file or directory
+Command exited with non-zero status 127
+0.00user 0.00system 0:00.00elapsed ?%CPU (0avgtext+0avgdata 1336maxresident)k
+0inputs+8outputs (0major+34minor)pagefaults 0swaps
+time: cannot run ./sort: No such file or directory
+Command exited with non-zero status 127
+0.00user 0.00system 0:00.00elapsed ?%CPU (0avgtext+0avgdata 1336maxresident)k
+0inputs+8outputs (0major+34minor)pagefaults 0swaps
+time: cannot run ./sort: No such file or directory
+Command exited with non-zero status 127
+0.00user 0.00system 0:00.00elapsed ?%CPU (0avgtext+0avgdata 1388maxresident)k
+0inputs+8outputs (0major+34minor)pagefaults 0swaps
+time: cannot run ./sort: No such file or directory
+Command exited with non-zero status 127
+0.00user 0.00system 0:00.00elapsed ?%CPU (0avgtext+0avgdata 1392maxresident)k
+0inputs+8outputs (0major+35minor)pagefaults 0swaps
+
+=== Testing for reverse input, size 100000 ===
+time: cannot run ./sort: No such file or directory
+Command exited with non-zero status 127
+0.00user 0.00system 0:00.00elapsed ?%CPU (0avgtext+0avgdata 1240maxresident)k
+0inputs+8outputs (0major+31minor)pagefaults 0swaps
+time: cannot run ./sort: No such file or directory
+Command exited with non-zero status 127
+0.00user 0.00system 0:00.00elapsed ?%CPU (0avgtext+0avgdata 1216maxresident)k
+0inputs+8outputs (0major+33minor)pagefaults 0swaps
+time: cannot run ./sort: No such file or directory
+Command exited with non-zero status 127
+0.00user 0.00system 0:00.00elapsed ?%CPU (0avgtext+0avgdata 1272maxresident)k
+0inputs+8outputs (0major+34minor)pagefaults 0swaps
+time: cannot run ./sort: No such file or directory
+Command exited with non-zero status 127
+0.00user 0.00system 0:00.00elapsed ?%CPU (0avgtext+0avgdata 1392maxresident)k
+0inputs+8outputs (0major+35minor)pagefaults 0swaps
+time: cannot run ./sort: No such file or directory
+Command exited with non-zero status 127
+0.00user 0.00system 0:00.00elapsed ?%CPU (0avgtext+0avgdata 1372maxresident)k
+0inputs+8outputs (0major+34minor)pagefaults 0swaps
+
+=== Testing for random input, size 1000000 ===
+time: cannot run ./sort: No such file or directory
+Command exited with non-zero status 127
+0.00user 0.00system 0:00.00elapsed ?%CPU (0avgtext+0avgdata 1272maxresident)k
+0inputs+8outputs (0major+34minor)pagefaults 0swaps
+time: cannot run ./sort: No such file or directory
+Command exited with non-zero status 127
+0.00user 0.00system 0:00.00elapsed ?%CPU (0avgtext+0avgdata 1376maxresident)k
+0inputs+8outputs (0major+35minor)pagefaults 0swaps
+time: cannot run ./sort: No such file or directory
+Command exited with non-zero status 127
+0.00user 0.00system 0:00.00elapsed ?%CPU (0avgtext+0avgdata 1216maxresident)k
+0inputs+8outputs (0major+33minor)pagefaults 0swaps
+time: cannot run ./sort: No such file or directory
+Command exited with non-zero status 127
+0.00user 0.00system 0:00.00elapsed ?%CPU (0avgtext+0avgdata 1332maxresident)k
+0inputs+8outputs (0major+33minor)pagefaults 0swaps
+time: cannot run ./sort: No such file or directory
+Command exited with non-zero status 127
+0.00user 0.00system 0:00.00elapsed ?%CPU (0avgtext+0avgdata 1400maxresident)k
+0inputs+8outputs (0major+36minor)pagefaults 0swaps
+
+=== Testing for sorted input, size 1000000 ===
+time: cannot run ./sort: No such file or directory
+Command exited with non-zero status 127
+0.00user 0.00system 0:00.00elapsed ?%CPU (0avgtext+0avgdata 1240maxresident)k
+0inputs+8outputs (0major+32minor)pagefaults 0swaps
+time: cannot run ./sort: No such file or directory
+Command exited with non-zero status 127
+0.00user 0.00system 0:00.00elapsed ?%CPU (0avgtext+0avgdata 1388maxresident)k
+0inputs+8outputs (0major+35minor)pagefaults 0swaps
+time: cannot run ./sort: No such file or directory
+Command exited with non-zero status 127
+0.00user 0.00system 0:00.00elapsed ?%CPU (0avgtext+0avgdata 1384maxresident)k
+0inputs+8outputs (0major+35minor)pagefaults 0swaps
+time: cannot run ./sort: No such file or directory
+Command exited with non-zero status 127
+0.00user 0.00system 0:00.00elapsed ?%CPU (0avgtext+0avgdata 1364maxresident)k
+0inputs+8outputs (0major+34minor)pagefaults 0swaps
+time: cannot run ./sort: No such file or directory
+Command exited with non-zero status 127
+0.00user 0.00system 0:00.00elapsed ?%CPU (0avgtext+0avgdata 1388maxresident)k
+0inputs+8outputs (0major+36minor)pagefaults 0swaps
+
+=== Testing for reverse input, size 1000000 ===
+time: cannot run ./sort: No such file or directory
+Command exited with non-zero status 127
+0.00user 0.00system 0:00.00elapsed ?%CPU (0avgtext+0avgdata 1332maxresident)k
+0inputs+8outputs (0major+33minor)pagefaults 0swaps
+time: cannot run ./sort: No such file or directory
+Command exited with non-zero status 127
+0.00user 0.00system 0:00.00elapsed ?%CPU (0avgtext+0avgdata 1400maxresident)k
+0inputs+8outputs (0major+36minor)pagefaults 0swaps
+time: cannot run ./sort: No such file or directory
+Command exited with non-zero status 127
+0.00user 0.00system 0:00.00elapsed ?%CPU (0avgtext+0avgdata 1380maxresident)k
+0inputs+8outputs (0major+34minor)pagefaults 0swaps
+time: cannot run ./sort: No such file or directory
+Command exited with non-zero status 127
+0.00user 0.00system 0:00.00elapsed ?%CPU (0avgtext+0avgdata 1392maxresident)k
+0inputs+8outputs (0major+35minor)pagefaults 0swaps
+time: cannot run ./sort: No such file or directory
+Command exited with non-zero status 127
+0.00user 0.00system 0:00.00elapsed ?%CPU (0avgtext+0avgdata 1268maxresident)k
+0inputs+8outputs (0major+34minor)pagefaults 0swaps
+
